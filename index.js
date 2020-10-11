@@ -3,7 +3,7 @@ const react = require("./react.js");
 const bot = new discord.Client();
 const bot1 = new discord.Client();
 
-const token = "NzM2NTQxMTQyNjY1MDAzMDIx.XxwTZA.24ESIdQlpAiMfCjCqWAEaxGKmUw";
+const token = "";
 
 const testes = bot.setMaxListeners(999);
  var tpp = 0
